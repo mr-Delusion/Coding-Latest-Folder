@@ -10,7 +10,7 @@ def find_prob(a,b):
         prob_a_and_b = prob_a * prob_p
         print("probability of both events occuring is: ", prob_a_and_b)   
    
-    if b == 1:
+    if a == 2:
         prob_b = 0.8
         if b == 1:
             prob_p = 0.2
